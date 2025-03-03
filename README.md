@@ -15,7 +15,7 @@ pip install openai
 pip install python-dotenv
 ```
 ## Resources
-I highly recommend using the [official OpenAI Python API library](https://github.com/openai/openai-python) on Github.
+I highly recommend using the official [OpenAI Python API library](https://github.com/openai/openai-python) on Github.
 
 
 ## Contact
